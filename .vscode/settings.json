@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "formulahendry.auto-close-tag",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
