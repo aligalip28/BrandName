@@ -27,6 +27,7 @@ letter-spacing: 0.2px;
 }
 body{
     background-color: rgba(37, 43, 66, 1);
+     overflow-x: hidden;
 }
 
 .card-sec{
